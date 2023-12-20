@@ -9,3 +9,5 @@
 ## Using Power Query to tansform a data
 #### The dataset contains empty cells and unknown characters, power query is a tool used to tansform the data
 ![Cookies PNG Github](https://github.com/DataKin33/Data-Cleaning-Project/assets/154422816/7b0e7994-0f2d-4ed2-88cf-283e74dc3528)
+
+# Cookies
