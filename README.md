@@ -1,5 +1,5 @@
 
-# Data-Cleaning-Project
+# Cookies (Data pre-processing and transformation of Data using Microssoft Excel and Power Query)
 ## Overview
 ### This repository contains the code and documentation for a Cookie data cleaning project using Microsoft Excel aimed at ensuring the quality and integrity of the dataset. Efficient data cleaning is essential for accurate analysis and reliable results for accurate insights and decision-making.
 
